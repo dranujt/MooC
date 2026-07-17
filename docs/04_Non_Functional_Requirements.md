@@ -1,3 +1,0 @@
-# Non-Functional Requirements
-
-Placeholder.
